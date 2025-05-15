@@ -67,14 +67,14 @@ Na mijn onderzoek ga ik de individuele modules maken en tijdens het maken mijn p
 Vervolgens ga ik de modules aan elkaar verbinden waardoor ik een computer heb gemaakt. Deze ga ik nogmaals testen door de computer verschillende instructies te geven en de output van de computer te vergelijken met de verwachte output van de instructies. Ook dit proces noteer ik in mijn procesdocument.
 Tot slot ge ik nog een keer over het procesdocument, verslag en mijn computer heen om te kijken wat ik kan verbeteren en om de puntjes op de “i” te zetten.
 Voor deze stappen wil ik verschillende bronnen gaan gebruiken zoals:
-•	[Wikipedia](https://en.wikipedia.org/wiki/8-bit_computing)
-•	[Eater.net](https://eater.net/)
-•	[Eater.net/8bit](https://eater.net/8bit/)
-•	[Instructables.com/How-to-Build-an-8-Bit-Computer](https://www.instructables.com/How-to-Build-an-8-Bit-Computer/)
-•	[YouTube.com](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
-•	[Linkedin.com/pulse/what-i-learned-from-building-homemade-8-bit-breadboard-max-zhou](https://www.linkedin.com/pulse/what-i-learned-from-building-homemade-8-bit-breadboard-max-zhou)
-•	[cs.Cornell.edu](https://www.cs.cornell.edu/~kt/post/6502-1/)
-•	[Binary to Decimal converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/8-bit_computing)
+- [Eater.net](https://eater.net/)
+- [Eater.net/8bit](https://eater.net/8bit/)
+- [Instructables.com/How-to-Build-an-8-Bit-Computer](https://www.instructables.com/How-to-Build-an-8-Bit-Computer/)
+- [YouTube.com](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
+- [Linkedin.com/pulse/what-i-learned-from-building-homemade-8-bit-breadboard-max-zhou](https://www.linkedin.com/pulse/what-i-learned-from-building-homemade-8-bit-breadboard-max-zhou)
+- [cs.Cornell.edu](https://www.cs.cornell.edu/~kt/post/6502-1/)
+- [Binary to Decimal converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html)
  
 ## Proces
 Om beter bekend te worden met computers schrijf ik tijdens mijn proces stapsgewijs een uitleg hoe technieken en modules van een computer werken en hoe ze gecombineerd kunnen worden om de computer te vormen. Aangezien mijn docent nog niet veel weet over computers en hoe ze werken is dit cruciaal voor de beoordeling van mijn werk.
