@@ -77,4 +77,4 @@ Voor deze stappen wil ik verschillende bronnen gaan gebruiken zoals:
 - [Binary to Decimal converter](https://www.rapidtables.com/convert/number/binary-to-decimal.html)
  
 ## Proces
-Om beter bekend te worden met computers schrijf ik tijdens mijn proces stapsgewijs een uitleg hoe technieken en modules van een computer werken en hoe ze gecombineerd kunnen worden om de computer te vormen. Aangezien mijn docent nog niet veel weet over computers en hoe ze werken is dit cruciaal voor de beoordeling van mijn werk.
+Om beter bekend te worden met computers schrijf ik tijdens mijn proces stapsgewijs een uitleg hoe technieken en modules van een computer werken en hoe ze gecombineerd kunnen worden om de computer te vormen. Aangezien mijn docent nog niet veel weet over computers en hoe ze werken is dit cruciaal voor de beoordeling van mijn werk. Dit doe ik in de vorm van issues waar iedere issue een gedeelte van het proces beschrijft, omschrijft en uitlegd waarbij bronnen en leermiddellen worden benoemd.
